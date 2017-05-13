@@ -26,7 +26,11 @@ export class BannerHeadComponent implements OnInit,AfterContentInit {
   }
 
   ngAfterContentInit(): void {
-    this.curRoutePath = location.pathname
+    if(location.pathname==='/'){
+      this.curRoutePath = '/all';
+    }else{
+      this.curRoutePath = location.pathname;
+    }
   }
 
   navClick(path: string) {

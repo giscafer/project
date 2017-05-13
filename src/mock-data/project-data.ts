@@ -172,7 +172,7 @@ export const  PROJECTS: any = [
     "gitUrl": "https://github.com/giscafer/generate-form-by-table-structure",
   },{
     "type": ['all','other','java'],
-    "img": "6",
+    "img": "7",
     "title": "physicaltable",
     "subtitle": "Java • BootStrap",
     "meta": "一个关于体育成绩登记的简单站点",
@@ -181,7 +181,7 @@ export const  PROJECTS: any = [
     "gitUrl": "https://github.com/giscafer/physicaltable",
   },{
     "type": ['all','angular'],
-    "img": "7",
+    "img": "8",
     "title": "angular-webuploader",
     "subtitle": "angular1.x • webuploader",
     "meta": "An AngularJS directive for webuploader (angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情)",
