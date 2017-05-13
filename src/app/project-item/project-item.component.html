@@ -1,0 +1,254 @@
+<a *ngFor="let item of projects; let i=index;" href='/sc/25' class='program-item'>
+  <div class='shadow'>
+    <div class='program-list-head'>
+      <div id='repo-bg-{{item.img}}'></div>
+    </div>
+    <div class='program-list-cont'>
+      <div class='program-list-tit'>{{item.title}}</div>
+      <div class='program-list-t clearfix'>
+        <span class='text'>{{item.subtitle}}</span>
+      </div>
+      <div class='program-list-dest'>{{item.meta}}</div>
+
+      <div class='program-list-bot'>
+        <span class='text'><a *ngIf="item.demoUrl!==''" href="{{item.demoUrl}}" target="_blank">在线演示</a></span>
+        <span class='git'><a *ngIf="item.gitUrl!==''" href="{{item.gitUrl}}" target="_blank">Github</a></span>
+      </div>
+    </div>
+  </div>
+
+  <!--<span class='item-new'>NEW</span>-->
+  <div class='c-line'></div>
+  <div class='d-line'></div>
+</a>
+
+<!-- <a href='/sc/2' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/5836c00a0001916906000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>HTML5与CSS3实现动态网页</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>5步骤 • 29门课</span>
+       </div>
+       <div class='program-list-dest'>通过系统学习，带你实现从&ldquo;会做网页&rdquo;到&ldquo;做出好的动态网页&rdquo;的蜕变</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>1087人在学</span>
+         <span class='price'>￥599.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/20' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/59030cc50001144806000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>前端小白入门</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>5步骤 • 33门课</span>
+       </div>
+       <div class='program-list-dest'>从小白到老司机，学会HTML、CSS、JS、 jQuery基础专题，向前端世界迈进！</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>556人在学</span>
+         <span class='price'>￥499.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/6' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/585243df00014f2406000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>零基础入门Android语法与界面</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>5步骤 • 41门课</span>
+       </div>
+       <div class='program-list-dest'>从基础语法入门，到能完成主流APP的界面，学习Android从这里开始！</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>538人在学</span>
+         <span class='price'>￥399.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/18' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/58c7b92d0001608406000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>Java基础语法与常用工具类</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>3步骤 • 27门课</span>
+       </div>
+       <div class='program-list-dest'>皮皮虾，快来学Java！掌握基础语法，学会编程思想，迈上开发之路！</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>275人在学</span>
+         <span class='price'>￥229.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/22' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/58d1f2dc0001eedf06000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>PHP从基础语法到原生项目开发</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>4步骤 • 18门课</span>
+       </div>
+       <div class='program-list-dest'>用项目串联零散的PHP知识点，教你解锁PHP的正确姿势，带你进入代码的殿堂！</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>194人在学</span>
+         <span class='price'>￥498.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/10' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/586c5ee90001794c06000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>iOS基础语法（OC&amp;Swift）与常用控件</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>5步骤 • 16门课</span>
+       </div>
+       <div class='program-list-dest'>由OC与Swift组成的iOS成长之路，让你一次掌握两种开发语言，去掉&ldquo;零&rdquo;标签</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>150人在学</span>
+         <span class='price'>￥299.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/17' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/59030d4e0001807a06000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>Android网络与数据存储</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>4步骤 • 20门课</span>
+       </div>
+       <div class='program-list-dest'>网路操作、数据存储、常用框架，老司机们带你围绕项目，轻松进阶Android工程师</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>60人在学</span>
+         <span class='price'>￥399.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/27' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/58f181840001c4ab06000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>ECShop3从基本使用到二次开发</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>3步骤 • 12门课</span>
+       </div>
+       <div class='program-list-dest'>ECShop3来啦！这款基于PHP开发的跨平台开源程序，带你玩转大型商城系统！</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>31人在学</span>
+         <span class='price'>￥298.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/23' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/58e726090001658206000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>Android从界面到数据存储</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>6步骤 • 38门课</span>
+       </div>
+       <div class='program-list-dest'>会Java，如何学Android？老司机带你轻松完成交互性APP的开发，助你迈入移动开发工程师行列。</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>21人在学</span>
+         <span class='price'>￥599.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>
+ <a href='/sc/19' class='program-item'>
+   <div class='shadow'>
+     <div class='program-list-head'>
+       <div class='' style='background-image: url(http://climg.mukewang.com/58f6cbdb00015e3006000338.jpg);'></div>
+     </div>
+     <div class='program-list-cont'>
+       <div class='program-list-tit'>iOS界面优化与数据存储</div>
+       <div class='program-list-t clearfix'>
+         <span class='text'>5步骤 • 20门课</span>
+       </div>
+       <div class='program-list-dest'>iOS视图控制器、屏幕适配、数据存储，加团购实战，更有Swift核心编程，助你成长</div>
+
+       <div class='program-list-bot'>
+         <span class='text'>14人在学</span>
+         <span class='price'>￥328.00</span>
+       </div>
+     </div>
+   </div>
+
+
+   <div class='c-line'></div>
+   <div class='d-line'></div>
+ </a>-->
