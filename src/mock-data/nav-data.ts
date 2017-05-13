@@ -8,7 +8,7 @@ export const  NAVS: any = [
     "navIcon": "all",
     "navText": "All",
     "introTitle": "前端编程之路",
-    "intro": "个人业余在 Github 上开发的所有项目/DEMO"
+    "intro": "个人业余在 Github 上开发的部分项目/DEMO"
   },
   {
     "routerUrl": "/vue",

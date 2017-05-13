@@ -1,2 +1,5 @@
 # project
-A simple page App for displaying owner project
+SPA site for displaying owner project built with angular
+
+[Online Site](http://project.giscafer.com)
+
