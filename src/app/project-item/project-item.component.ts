@@ -25,6 +25,9 @@ export class ProjectItemComponent implements OnInit {
   }
 
   filterPro(type: string): any[] {
+    if(!type){
+      return PROJECTS;
+    }
     return PROJECTS.filter(item => {
       return item.type.includes(type);
     })
