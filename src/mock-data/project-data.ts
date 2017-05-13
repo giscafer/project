@@ -93,8 +93,8 @@ export const  PROJECTS: any = [
     "subtitle": "Node.js • Jade • MongoDB",
     "meta": "学习nodejs时，开发的一个电影网站demo，功能包括注册登录，网站爬虫添加，电影查询删除等",
     "description": "学习nodejs时，开发的一个电影网站demo，功能包括注册登录，爬虫添加电影，电影查询删除等",
-    "demoUrl": "http://ng2ife.giscafer.com",
-    "gitUrl": "https://github.com/giscafer/ng2-ife-course",
+    "demoUrl": "",
+    "gitUrl": "https://github.com/giscafer/moviesite",
   },{
     "type": ['all','other','wechat','java'],
     "img": "10",
@@ -102,7 +102,7 @@ export const  PROJECTS: any = [
     "subtitle": "Java • 微信公众号",
     "meta": " 微信公众号JAVA开发学习demo，天气预报查询、消息自动回复、中英文翻译",
     "description": "微信公众号开发机器人，天气预报查询、消息自动回复、中英文翻译",
-    "demoUrl": "http://ng2ife.giscafer.com",
-    "gitUrl": "https://github.com/giscafer/ng2-ife-course",
+    "demoUrl": "",
+    "gitUrl": "https://github.com/giscafer/gisrobot",
   },
 ];

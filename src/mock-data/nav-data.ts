@@ -50,6 +50,6 @@ export const  NAVS: any = [
     "navIcon": "fe",
     "navText": "Other",
     "introTitle": "其他项目",
-    "intro": "其他项目、其他demo"
+    "intro": "微信公众号/微信小程序开发、Java开发、其他非框架技术开发Demo"
   }
 ];
