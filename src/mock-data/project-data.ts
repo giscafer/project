@@ -188,5 +188,14 @@ export const  PROJECTS: any = [
     "description": "An AngularJS directive for webuploader (angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情)",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/angular-webuploader",
+  },{
+    "type": ['all','angular'],
+    "img": "9",
+    "title": "laoui-bootstrap",
+    "subtitle": "angular1.x • bootstrap",
+    "meta": "基于bootstrap与angularjs1.x的UI组件封装",
+    "description": "基于bootstrap与angularjs1.x的UI组件",
+    "demoUrl": "http://laoui.giscafer.com",
+    "gitUrl": "",
   },
 ];
