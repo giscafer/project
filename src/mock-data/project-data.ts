@@ -20,7 +20,7 @@ export const  PROJECTS: any = [
     "subtitle": "react • react-redux",
     "meta": " [ P ] rice + M [ onitor ] = Ponitor 价格监测应用",
     "description": "天猫、淘宝、京东、Apple App的商品，监控商品价格发生变动时（每天定时器），推送消息（目前是发送邮件），商品价格趋势分析统计等！",
-    "demoUrl": "http://giscafer.com/react-ponitor/",
+    "demoUrl": "https://giscafer.github.io/react-ponitor/",
     "gitUrl": "https://github.com/giscafer/react-ponitor",
   },{
     "type": ['all','other','java'],
@@ -48,7 +48,7 @@ export const  PROJECTS: any = [
     "meta": "Generate geojson files for Echarts Map,base on mapshaper",
     "description": "基于mapshaper对geojson地图数据的坐标信息进行压缩编码，并提供可直接生成压缩编码后的echarts map数据格式，" +
     "通过mapshaper-plus可以直接将shp格式数据转换为压缩后的echarts数据",
-    "demoUrl": "http://giscafer.com/mapshaper-plus/",
+    "demoUrl": "https://giscafer.github.io/mapshaper-plus/",
     "gitUrl": "https://github.com/giscafer/mapshaper-plus",
   },{
     "type": ['all','other','wechat'],
@@ -111,7 +111,7 @@ export const  PROJECTS: any = [
     "subtitle": "react",
     "meta": " react学习练习demo",
     "description": " react学习练习demo",
-    "demoUrl": "",
+    "demoUrl": "https://giscafer.github.io/react-demo-list/",
     "gitUrl": "https://github.com/giscafer/react-demo-list",
   },{
     "type": ['all','vue','nodejs'],
