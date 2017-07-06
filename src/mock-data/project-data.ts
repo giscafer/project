@@ -197,5 +197,14 @@ export const  PROJECTS: any = [
     "description": "基于bootstrap与angularjs1.x的UI组件",
     "demoUrl": "http://laoui.giscafer.com",
     "gitUrl": "",
+  },{
+    "type": ['all','app'],
+    "img": "gis520",
+    "title": "GIS520",
+    "subtitle": "php + H5",
+    "meta": "大学时期创建GIS520论坛，开发的论坛H5 APP",
+    "description": "大学时期创建GIS520论坛，开发的论坛H5 APP",
+    "demoUrl": "http://sj.qq.com/myapp/detail.htm?apkName=com.gis520.www",
+    "gitUrl": "",
   },
 ];

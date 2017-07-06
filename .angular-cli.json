@@ -21,6 +21,7 @@
       "styles": [
         "./assets/css/common.css",
         "./assets/css/main.css",
+        "./assets/css/project.css",
         "styles.scss"
       ],
       "scripts": [],
