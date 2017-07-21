@@ -206,5 +206,14 @@ export const  PROJECTS: any = [
     "description": "大学时期创建GIS520论坛，开发的论坛H5 APP",
     "demoUrl": "http://sj.qq.com/myapp/detail.htm?apkName=com.gis520.www",
     "gitUrl": "",
+  },{
+    "type": ['all','app'],
+    "img": "jzt",
+    "title": "新家装通",
+    "subtitle": "Java • Ionic3",
+    "meta": "品质家居配送App",
+    "description": "公司的一个APP应用，项目负责人，开发经理",
+    "demoUrl": "https://raw.githubusercontent.com/giscafer/project/master/screenshot/demo/jzt.gif",
+    "gitUrl": "",
   },
 ];
