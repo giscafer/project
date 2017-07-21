@@ -213,7 +213,7 @@ export const  PROJECTS: any = [
     "subtitle": "Java • Ionic3",
     "meta": "品质家居配送App",
     "description": "公司的一个APP应用，项目负责人，开发经理",
-    "demoUrl": "https://raw.githubusercontent.com/giscafer/project/master/screenshot/demo/jzt.gif",
+    "demoUrl": "https://github.com/giscafer/project/issues/2",
     "gitUrl": "",
   },
 ];
