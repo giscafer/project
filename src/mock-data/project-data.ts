@@ -38,7 +38,7 @@ export const  PROJECTS: any = [
     "subtitle": "HTML • CSS • Hexo",
     "meta": "自定义 Hexo 博客框架主题，追求简约、操作简单、阅读舒适度",
     "description": "A theme of Hexo that is aimed at pursuit of simplicity, simple operation, reading comfort. 追求简约、操作简单、阅读舒适度",
-    "demoUrl": "http://cafe.giscafer.com",
+    "demoUrl": "http://blog.giscafer.com/",
     "gitUrl": "https://github.com/giscafer/hexo-theme-cafe",
   },{
     "type": ['all','other','wechat'],
