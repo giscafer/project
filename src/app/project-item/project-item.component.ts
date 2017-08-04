@@ -1,6 +1,6 @@
-import {Component, OnInit} from '@angular/core';
-import {PROJECTS} from "../../mock-data/project-data";
-import {Router} from "@angular/router";
+import { Component, OnInit, Input } from '@angular/core';
+import { PROJECTS } from "../../mock-data/project-data";
+import { Router } from "@angular/router";
 
 @Component({
   selector: 'project-item',
@@ -9,27 +9,14 @@ import {Router} from "@angular/router";
 })
 export class ProjectItemComponent implements OnInit {
 
+  @Input()
   projects: any[] = [];
 
   constructor(private router: Router) {
   }
 
   ngOnInit() {
-    this.projects = PROJECTS;
-    let type = this.router.url.substr(1);
-    this.changeData(type)
+
   }
 
-  changeData(type: string) {
-    this.projects = this.filterPro(type);
-  }
-
-  filterPro(type: string): any[] {
-    if(!type){
-      return PROJECTS;
-    }
-    return PROJECTS.filter(item => {
-      return item.type.includes(type);
-    })
-  }
 }

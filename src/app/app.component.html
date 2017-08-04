@@ -1,8 +1,8 @@
 <div class='body-main'>
-  <banner-head></banner-head>
+  <banner-head (navChange)="navChange($event)"></banner-head>
   <div class='program-list'>
     <div class='program-list-wrap clearfix'>
-      <router-outlet></router-outlet>
+      <project-item [projects]="projects"></project-item>
     </div>
   </div>
 </div>
