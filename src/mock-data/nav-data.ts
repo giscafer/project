@@ -43,7 +43,7 @@ export const  NAVS: any = [
     "navIcon": "android",
     "navText": "App",
     "introTitle": "App 项目",
-    "intro": "App 相关项目、demo，由于App开发需要较多的精力，业余并没有开发完整的demo。工作上开发App使用过的技术有：Ionic、NativeScript，业余开发学习用过RN"
+    "intro": "App 相关项目、demo。工作上开发App使用过的技术有：Ionic、NativeScript，业余开发学习用过RN，个人博客也有分享关于APP开发的技术文章"
   },
   {
     "routerUrl": "/other",

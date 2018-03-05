@@ -10,30 +10,31 @@ const appRoutes: Routes = [
     path: '',
     component: ProjectItemComponent,
     pathMatch: 'full'
-  }, {
-    path: 'all',
-    component: ProjectItemComponent,
-  }, {
-    path: 'vue',
-    component: ProjectItemComponent,
-  }, {
-    path: 'angular',
-    component: ProjectItemComponent,
-  }, {
-    path: 'react',
-    component: ProjectItemComponent,
-  }, {
-    path: 'nodejs',
-    component: ProjectItemComponent,
-  }, {
-    path: 'app',
-    component: ProjectItemComponent,
-  }, {
-    path: 'other',
-    component: ProjectItemComponent,
   },
+  //  {
+  //   path: 'all',
+  //   component: ProjectItemComponent,
+  // }, {
+  //   path: 'vue',
+  //   component: ProjectItemComponent,
+  // }, {
+  //   path: 'angular',
+  //   component: ProjectItemComponent,
+  // }, {
+  //   path: 'react',
+  //   component: ProjectItemComponent,
+  // }, {
+  //   path: 'nodejs',
+  //   component: ProjectItemComponent,
+  // }, {
+  //   path: 'app',
+  //   component: ProjectItemComponent,
+  // }, {
+  //   path: 'other',
+  //   component: ProjectItemComponent,
+  // },
   {
-    path: '**', redirectTo: "all"
+    path: '**', redirectTo: ""
   }
 ]
 

@@ -1,8 +1,8 @@
 <div class='body-main'>
-  <banner-head></banner-head>
+  <banner-head (navChange)="navChange($event)"></banner-head>
   <div class='program-list'>
     <div class='program-list-wrap clearfix'>
-      <router-outlet></router-outlet>
+      <project-item [projects]="projects"></project-item>
     </div>
   </div>
 </div>
@@ -11,6 +11,9 @@
     <span class="">GitHub</span>
   </a>
   <a href="http://giscafer.com" class="elevator-msg" target="_blank">
+    <span class="">个人首页</span>
+  </a>
+  <a href="http://blog.giscafer.com" class="elevator-msg" target="_blank">
     <span class="">博客</span>
   </a>
   <a href="http://weibo.com/laohoubin" target="_blank" class="elevator-app">

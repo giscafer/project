@@ -2,9 +2,9 @@
  * Created by giscafer on 2017/5/13.
  */
 
-export const  PROJECTS: any = [
+export const PROJECTS: any = [
   {
-    "type": ['all','vue','nodejs'],
+    "type": ['all', 'vue', 'nodejs'],
     "img": "1",
     "title": "Ponitor",
     "subtitle": "Vue.js1.x • ES6 • Node.js • MongoDB",
@@ -14,7 +14,7 @@ export const  PROJECTS: any = [
     "gitUrl": "https://github.com/giscafer/Ponitor",
   },
   {
-    "type": ['all','react'],
+    "type": ['all', 'react'],
     "img": "2",
     "title": "react-ponitor",
     "subtitle": "react • react-redux",
@@ -22,8 +22,8 @@ export const  PROJECTS: any = [
     "description": "天猫、淘宝、京东、Apple App的商品，监控商品价格发生变动时（每天定时器），推送消息（目前是发送邮件），商品价格趋势分析统计等！",
     "demoUrl": "https://giscafer.github.io/react-ponitor/",
     "gitUrl": "https://github.com/giscafer/react-ponitor",
-  },{
-    "type": ['all','other','java'],
+  }, {
+    "type": ['all', 'other', 'java'],
     "img": "3",
     "title": "FinalScheduler",
     "subtitle": "JFinal2.0 • Bootstrap • SeaJS • FullCalender.js",
@@ -31,27 +31,27 @@ export const  PROJECTS: any = [
     "description": "终极排班管理系统，改变传统的排班模式！",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/FinalScheduler",
-  },{
-    "type": ['all','other','css'],
+  }, {
+    "type": ['all', 'other', 'css'],
     "img": "4",
     "title": "hexo-theme-cafe",
     "subtitle": "HTML • CSS • Hexo",
     "meta": "自定义 Hexo 博客框架主题，追求简约、操作简单、阅读舒适度",
     "description": "A theme of Hexo that is aimed at pursuit of simplicity, simple operation, reading comfort. 追求简约、操作简单、阅读舒适度",
-    "demoUrl": "http://cafe.giscafer.com",
+    "demoUrl": "http://blog.giscafer.com/",
     "gitUrl": "https://github.com/giscafer/hexo-theme-cafe",
-  },{
-    "type": ['all','other','wechat'],
+  }, {
+    "type": ['all', 'other', 'wechat'],
     "img": "6",
     "title": "mapshaper-plus",
     "subtitle": "HTML • CSS • JavaScript",
     "meta": "Generate geojson files for Echarts Map,base on mapshaper",
     "description": "基于mapshaper对geojson地图数据的坐标信息进行压缩编码，并提供可直接生成压缩编码后的echarts map数据格式，" +
-    "通过mapshaper-plus可以直接将shp格式数据转换为压缩后的echarts数据",
+      "通过mapshaper-plus可以直接将shp格式数据转换为压缩后的echarts数据",
     "demoUrl": "https://giscafer.github.io/mapshaper-plus/",
     "gitUrl": "https://github.com/giscafer/mapshaper-plus",
-  },{
-    "type": ['all','other','wechat'],
+  }, {
+    "type": ['all', 'other', 'wechat'],
     "img": "5",
     "title": "wechat-weapp-mapdemo",
     "subtitle": "HTML5 • CSS • JavaScript",
@@ -59,8 +59,8 @@ export const  PROJECTS: any = [
     "description": "微信小程序开发demo，地图导航、marker标注",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/wechat-weapp-mapdemo",
-  },{
-    "type": ['all','angular','nodejs'],
+  }, {
+    "type": ['all', 'angular', 'nodejs'],
     "img": "7",
     "title": "angular-chat",
     "subtitle": "Angular4 • Node.js • Socket.io",
@@ -68,8 +68,8 @@ export const  PROJECTS: any = [
     "description": "（IM App）Chat App built using Angular and Socket.io，模仿百度E秘聊天",
     "demoUrl": "http://project.xinong.wang:8080/",
     "gitUrl": "https://github.com/giscafer/angular-chat",
-  },{
-    "type": ['all','react'],
+  }, {
+    "type": ['all', 'react'],
     "img": "8",
     "title": "ife-course-demo",
     "subtitle": "react",
@@ -77,8 +77,8 @@ export const  PROJECTS: any = [
     "description": "百度前端技术学院demo演示SPA ",
     "demoUrl": "http://ife.giscafer.com",
     "gitUrl": "https://github.com/giscafer/ife-course-demo",
-  },{
-    "type": ['all','angular'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "9",
     "title": "ng2-ife-course",
     "subtitle": "angular2",
@@ -86,8 +86,8 @@ export const  PROJECTS: any = [
     "description": "百度前端技术学院demo演示SPA ",
     "demoUrl": "http://ng2ife.giscafer.com",
     "gitUrl": "https://github.com/giscafer/ng2-ife-course",
-  },{
-    "type": ['all','nodejs'],
+  }, {
+    "type": ['all', 'nodejs'],
     "img": "10",
     "title": "moviesite",
     "subtitle": "Node.js • Jade • MongoDB",
@@ -95,8 +95,8 @@ export const  PROJECTS: any = [
     "description": "学习nodejs时，开发的一个电影网站demo，功能包括注册登录，爬虫添加电影，电影查询删除等",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/moviesite",
-  },{
-    "type": ['all','other','wechat','java'],
+  }, {
+    "type": ['all', 'other', 'wechat', 'java'],
     "img": "11",
     "title": "gisrobot",
     "subtitle": "Java • 微信公众号",
@@ -104,8 +104,8 @@ export const  PROJECTS: any = [
     "description": "微信公众号开发机器人，天气预报查询、消息自动回复、中英文翻译",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/gisrobot",
-  },{
-    "type": ['all','react'],
+  }, {
+    "type": ['all', 'react'],
     "img": "1",
     "title": "react-demo-list",
     "subtitle": "react",
@@ -113,8 +113,8 @@ export const  PROJECTS: any = [
     "description": " react学习练习demo",
     "demoUrl": "https://giscafer.github.io/react-demo-list/",
     "gitUrl": "https://github.com/giscafer/react-demo-list",
-  },{
-    "type": ['all','vue','nodejs'],
+  }, {
+    "type": ['all', 'vue', 'nodejs'],
     "img": "2",
     "title": "Vue-order",
     "subtitle": "vue.js1.x • Node.js • MongoDB",
@@ -122,8 +122,8 @@ export const  PROJECTS: any = [
     "description": "nodejs+vue.js学习开发demo,订餐系统应用",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/Vue-order",
-  },{
-    "type": ['all','nodejs','npm'],
+  }, {
+    "type": ['all', 'nodejs', 'npm'],
     "img": "3",
     "title": "alidayujs",
     "subtitle": "NPM • Node.js",
@@ -132,8 +132,8 @@ export const  PROJECTS: any = [
     "npm": "https://www.npmjs.com/package/alidayujs",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/alidayujs",
-  },{
-    "type": ['all','nodejs','npm'],
+  }, {
+    "type": ['all', 'nodejs', 'npm'],
     "img": "3",
     "title": "node-ipcity",
     "subtitle": "NPM • Node.js",
@@ -142,8 +142,8 @@ export const  PROJECTS: any = [
     "npm": "https://www.npmjs.com/package/node-ipcity",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/node-ipcity",
-  },{
-    "type": ['all','nodejs','npm'],
+  }, {
+    "type": ['all', 'nodejs', 'npm'],
     "img": "3",
     "title": "node-typhoon",
     "subtitle": "NPM • Node.js",
@@ -152,8 +152,8 @@ export const  PROJECTS: any = [
     "npm": "https://www.npmjs.com/package/node-typhoon",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/node-typhoon",
-  },{
-    "type": ['all','nodejs','angular'],
+  }, {
+    "type": ['all', 'nodejs', 'angular'],
     "img": "5",
     "title": "git-batch-file-builder",
     "subtitle": "angular1.x • Git • Node.js",
@@ -161,8 +161,8 @@ export const  PROJECTS: any = [
     "description": "Git Batch File Builder，git批处理文件创建",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/git-batch-file-builder",
-  },{
-    "type": ['all','nodejs','other'],
+  }, {
+    "type": ['all', 'nodejs', 'other'],
     "img": "6",
     "title": "generate-form-by-table-structure",
     "subtitle": "Node.js",
@@ -170,8 +170,8 @@ export const  PROJECTS: any = [
     "description": "Generate the form html template according to the table structure（根据表结构自动生成表单）",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/generate-form-by-table-structure",
-  },{
-    "type": ['all','other','java'],
+  }, {
+    "type": ['all', 'other', 'java'],
     "img": "7",
     "title": "physicaltable",
     "subtitle": "Java • BootStrap",
@@ -179,8 +179,8 @@ export const  PROJECTS: any = [
     "description": "一个关于体育成绩登记的简单站点",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/physicaltable",
-  },{
-    "type": ['all','angular'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "8",
     "title": "angular-webuploader",
     "subtitle": "angular1.x • webuploader",
@@ -188,8 +188,8 @@ export const  PROJECTS: any = [
     "description": "An AngularJS directive for webuploader (angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情)",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/angular-webuploader",
-  },{
-    "type": ['all','angular'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "9",
     "title": "laoui-bootstrap",
     "subtitle": "angular1.x • bootstrap",
@@ -197,8 +197,8 @@ export const  PROJECTS: any = [
     "description": "基于bootstrap与angularjs1.x的UI组件",
     "demoUrl": "http://laoui.giscafer.com",
     "gitUrl": "",
-  },{
-    "type": ['all','nodejs','npm'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "3",
     "title": "ng-ace-tern",
     "subtitle": "NPM • Angular",
@@ -207,8 +207,8 @@ export const  PROJECTS: any = [
     "npm": "https://www.npmjs.com/package/ng-ace-tern",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/ng-ace-tern",
-  },{
-    "type": ['all','angular'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "7",
     "title": "ng-form-builder",
     "subtitle": "Angular",
@@ -216,8 +216,8 @@ export const  PROJECTS: any = [
     "description": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
     "demoUrl": "form.giscafer.com",
     "gitUrl": "https://github.com/giscafer/ng-form-builder",
-  },{
-    "type": ['all','angular'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "6",
     "title": "ng-viewer",
     "subtitle": "Angular",
@@ -225,8 +225,8 @@ export const  PROJECTS: any = [
     "description": "An angular directive for viewer.js",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/ng-viewer",
-  },{
-    "type": ['all','angular'],
+  }, {
+    "type": ['all', 'angular'],
     "img": "4",
     "title": "primeng-ext",
     "subtitle": "Angular",
@@ -234,5 +234,14 @@ export const  PROJECTS: any = [
     "description": "primeng component extension",
     "demoUrl": "",
     "gitUrl": "https://github.com/giscafer/primeng-ext",
-  },
+  }, {
+    "type": ['all', 'app'],
+    "img": "gis520",
+    "title": "GIS520",
+    "subtitle": "php + H5",
+    "meta": "大学时期创建GIS520论坛，开发的论坛H5 APP",
+    "description": "大学时期创建GIS520论坛，开发的论坛H5 APP",
+    "demoUrl": "http://sj.qq.com/myapp/detail.htm?apkName=com.gis520.www",
+    "gitUrl": "",
+  }
 ];
