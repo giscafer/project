@@ -39,6 +39,7 @@ Thumbs.db
 /src/typings/tsd/
 /typings/
 /tsd_typings/
+/docs/
 
 # Dist #
 /dist
