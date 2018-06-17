@@ -1,5 +1,4 @@
 import { Component, OnInit } from "@angular/core";
-import { PROJECTS } from "mock-data/project-data";
 import { Jsonp, Http } from "@angular/http";
 
 @Component({
@@ -36,9 +35,9 @@ export class AppComponent implements OnInit {
 
   filterPro(type: string): any[] {
     if (!type) {
-      return PROJECTS;
+      return this.projects;
     }
-    return PROJECTS.filter(item => {
+    return this.projects.filter(item => {
       return item.type.includes(type);
     })
   }

@@ -1,5 +1,4 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { PROJECTS } from "../../mock-data/project-data";
 import { Router } from "@angular/router";
 
 @Component({

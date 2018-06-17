@@ -355,6 +355,18 @@
         "description": "大学时期创建GIS520论坛，开发的论坛H5 APP",
         "demoUrl": "http://sj.qq.com/myapp/detail.htm?apkName=com.gis520.www",
         "gitUrl": ""
+    },
+    {
+        "type": [
+            "all",
+            "nodejs"
+        ],
+        "img": "3",
+        "title": "wechat-autoreply",
+        "subtitle": "wechat + node.js",
+        "meta": "web 微信关键词自动回复功能（微信聊天，非公众号机器人）",
+        "description": "web微信！！！非微信公众号，不管是在微信群聊还是微信私聊中，触发关键词，都会出现自动回复",
+        "gitUrl": "wechat-autoreply"
     }
 ]
   
