@@ -9,15 +9,19 @@ import { Jsonp, Http } from "@angular/http";
 export class AppComponent implements OnInit {
 
 
+  allProjects: any[] = [];
   projects: any[] = [];
 
   hash: number = new Date().getTime();
 
-  constructor(private http: Http) { }
+  constructor(private http: Http) {
+ 
+  }
 
   ngOnInit(): void {
     this.http.get(`./data/data.json?v=${this.hash}`).subscribe(res => {
       let json = res.json();
+      this.allProjects = json;
       this.projects = json;
     }, err => {
       console.log(err);
@@ -35,9 +39,9 @@ export class AppComponent implements OnInit {
 
   filterPro(type: string): any[] {
     if (!type) {
-      return this.projects;
+      return this.allProjects;
     }
-    return this.projects.filter(item => {
+    return this.allProjects.filter(item => {
       return item.type.includes(type);
     })
   }
