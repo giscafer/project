@@ -361,13 +361,27 @@
             "all",
             "nodejs"
         ],
-        "img": "3",
+        "img": "1",
         "title": "wechat-autoreply",
         "subtitle": "wechat + node.js",
         "meta": "web 微信关键词自动回复功能（微信聊天，非公众号机器人）",
         "description": "web微信！！！非微信公众号，不管是在微信群聊还是微信私聊中，触发关键词，都会出现自动回复",
         "demoUrl": "",
         "gitUrl": "https://github.com/giscafer/wechat-autoreply"
+    },
+    {
+        "type": [
+            "all",
+            "other",
+            "nodejs"
+        ],
+        "img": "2",
+        "title": "mongo-js",
+        "subtitle": "mongodb + node.js",
+        "meta": "node.js 批量操作修改mongodb数据库脚本",
+        "description": "node.js 批量操作修改mongodb数据库脚本",
+        "demoUrl": "",
+        "gitUrl": "https://github.com/giscafer/mongo-js"
     }
 ]
   
