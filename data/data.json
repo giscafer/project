@@ -314,7 +314,7 @@
         "subtitle": "Angular",
         "meta": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
         "description": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
-        "demoUrl": "form.giscafer.com",
+        "demoUrl": "http://form.giscafer.com",
         "gitUrl": "https://github.com/giscafer/ng-form-builder"
     },
     {
