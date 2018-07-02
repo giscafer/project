@@ -310,12 +310,12 @@
             "angular"
         ],
         "img": "7",
-        "title": "ng-form-builder",
+        "title": "ngx-form-builder",
         "subtitle": "Angular",
         "meta": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
         "description": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
         "demoUrl": "http://form.giscafer.com",
-        "gitUrl": "https://github.com/giscafer/ng-form-builder"
+        "gitUrl": "https://github.com/giscafer/ngx-form-builder"
     },
     {
         "type": [
