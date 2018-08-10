@@ -377,6 +377,7 @@
         "subtitle": "PWA",
         "meta": "公司内部技术培训，PWA技术分享PPT&Demo",
         "description": "PWA技术学习分享",
+        "pptUrl": "https://github.com/giscafer/PWA-demo/blob/master/PWA%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.pptx",
         "gitUrl": "https://github.com/giscafer/PWA-demo"
     },
     {
@@ -389,6 +390,7 @@
         "subtitle": "Web Components",
         "meta": "公司内部前端组培训，Web Components 技术分享PPT&Demo",
         "description": "Web Components 技术学习分享",
+        "pptUrl": "http://yanshuo.io/assets/player/?deck=5b3e1196fe88c20035d21968#/",
         "gitUrl": "https://github.com/giscafer/webcomponents-demo"
     },
     {
@@ -401,6 +403,7 @@
         "subtitle": "GraphQL 技术分享",
         "meta": "公司内部技术培训，GraphQL 技术分享 PPT & Demo",
         "description": "GraphQL 技术学习分享",
+        "pptUrl": "https://yanshuo.io/assets/player/?deck=5b65b580ee920a003be3eeb6#/",
         "gitUrl": "https://github.com/giscafer/Angular-GraphQL-Express-Demo"
     }
 ]
