@@ -13,7 +13,7 @@
             <div class='program-list-dest'>{{item.meta}}</div>
 
             <div class='program-list-bot'>
-                <span class='text'><a *ngIf="item.demoUrl!==''" href="{{item.demoUrl}}" target="_blank">在线演示</a></span>
+                <span class='text'><a *ngIf="item.demoUrl && item.demoUrl!==''" href="{{item.demoUrl}}" target="_blank">在线演示</a></span>
                 <span class='git'><a *ngIf="item.gitUrl!==''" href="{{item.gitUrl}}" target="_blank">Github</a></span>
             </div>
         </div>

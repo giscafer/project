@@ -11,13 +11,6 @@ export const  NAVS: any = [
     "intro": "个人业余在 Github 上开发的部分项目/DEMO，擅长于JavaScript、熟悉Node.js、掌握Java"
   },
   {
-    "routerUrl": "/vue",
-    "navIcon": "fe",
-    "navText": "Vue.js",
-    "introTitle": "Vue.js 项目",
-    "intro": "vue.js相关项目、demo"
-  },
-  {
     "routerUrl": "/angular",
     "navIcon": "php",
     "navText": "Angular",
@@ -32,6 +25,13 @@ export const  NAVS: any = [
     "intro": "React 相关项目、demo",
   },
   {
+    "routerUrl": "/vue",
+    "navIcon": "fe",
+    "navText": "Vue.js",
+    "introTitle": "Vue.js 项目",
+    "intro": "vue.js相关项目、demo"
+  },
+  {
     "routerUrl": "/nodejs",
     "navIcon": "ios",
     "navText": "Node.js",
@@ -43,7 +43,7 @@ export const  NAVS: any = [
     "navIcon": "android",
     "navText": "App",
     "introTitle": "App 项目",
-    "intro": "App 相关项目、demo。工作上开发App使用过的技术有：Ionic、NativeScript，业余开发学习用过RN，个人博客也有分享关于APP开发的技术文章"
+    "intro": "App 相关项目/Demo。掌握技术有：Ionic、NativeScript、React Native"
   },
   {
     "routerUrl": "/other",
