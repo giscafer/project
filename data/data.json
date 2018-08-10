@@ -84,6 +84,19 @@
     {
         "type": [
             "all",
+            "angular"
+        ],
+        "img": "angular",
+        "title": "ngx-form-builder",
+        "subtitle": "jsonSchema 表单自动化构建，支持模板代码在线编辑、复制、下载",
+        "meta": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
+        "description": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
+        "demoUrl": "form.giscafer.com",
+        "gitUrl": "https://github.com/giscafer/ngx-form-builder"
+    },
+    {
+        "type": [
+            "all",
             "angular",
             "nodejs"
         ],
@@ -302,19 +315,6 @@
         "npm": "https://www.npmjs.com/package/ng-ace-tern",
         "demoUrl": "",
         "gitUrl": "https://github.com/giscafer/ng-ace-tern"
-    },
-    {
-        "type": [
-            "all",
-            "angular"
-        ],
-        "img": "angular",
-        "title": "ngx-form-builder",
-        "subtitle": "Angular",
-        "meta": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
-        "description": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
-        "demoUrl": "form.giscafer.com",
-        "gitUrl": "https://github.com/giscafer/ngx-form-builder"
     },
     {
         "type": [
