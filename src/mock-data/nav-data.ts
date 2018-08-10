@@ -51,5 +51,12 @@ export const  NAVS: any = [
     "navText": "Other",
     "introTitle": "其他项目",
     "intro": "微信公众号/微信小程序开发、Java开发、其他非框架技术开发Demo"
+  },
+  {
+    "routerUrl": "/course",
+    "navIcon": "course",
+    "navText": "Course",
+    "introTitle": "培训、分享课程",
+    "intro": "个人在线上/线下/公司内部，所进行过的培训/分享的技术课程"
   }
 ];

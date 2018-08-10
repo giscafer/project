@@ -1,5 +1,4 @@
-[
-    {
+[{
         "type": [
             "all",
             "vue",
@@ -18,7 +17,7 @@
             "all",
             "react"
         ],
-        "img": "2",
+        "img": "react",
         "title": "react-ponitor",
         "subtitle": "react • react-redux",
         "meta": " [ P ] rice + M [ onitor ] = Ponitor 价格监测应用",
@@ -88,7 +87,7 @@
             "angular",
             "nodejs"
         ],
-        "img": "7",
+        "img": "angular",
         "title": "angular-chat",
         "subtitle": "Angular4 • Node.js • Socket.io",
         "meta": "（IM App）Chat App built using Angular and Socket.io",
@@ -101,7 +100,7 @@
             "all",
             "react"
         ],
-        "img": "8",
+        "img": "react",
         "title": "ife-course-demo",
         "subtitle": "react",
         "meta": "百度前端技术学院demo演示SPA ",
@@ -114,7 +113,7 @@
             "all",
             "angular"
         ],
-        "img": "9",
+        "img": "angular",
         "title": "ng2-ife-course",
         "subtitle": "angular2",
         "meta": "百度前端技术学院demo演示SPA ",
@@ -155,7 +154,7 @@
             "all",
             "react"
         ],
-        "img": "1",
+        "img": "react",
         "title": "react-demo-list",
         "subtitle": "react",
         "meta": " react学习练习demo",
@@ -169,7 +168,7 @@
             "vue",
             "nodejs"
         ],
-        "img": "2",
+        "img": "vue",
         "title": "Vue-order",
         "subtitle": "vue.js1.x • Node.js • MongoDB",
         "meta": " nodejs+vue.js学习开发demo,订餐系统应用 ",
@@ -269,7 +268,7 @@
             "all",
             "angular"
         ],
-        "img": "8",
+        "img": "angular",
         "title": "angular-webuploader",
         "subtitle": "angular1.x • webuploader",
         "meta": "An AngularJS directive for webuploader (angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情)",
@@ -282,7 +281,7 @@
             "all",
             "angular"
         ],
-        "img": "9",
+        "img": "angular",
         "title": "laoui-bootstrap",
         "subtitle": "angular1.x • bootstrap",
         "meta": "基于bootstrap与angularjs1.x的UI组件封装",
@@ -295,7 +294,7 @@
             "all",
             "angular"
         ],
-        "img": "3",
+        "img": "angular",
         "title": "ng-ace-tern",
         "subtitle": "NPM • Angular",
         "meta": "Tern plugin for Ace Editor for Angular",
@@ -309,20 +308,20 @@
             "all",
             "angular"
         ],
-        "img": "7",
-        "title": "ng-form-builder",
+        "img": "angular",
+        "title": "ngx-form-builder",
         "subtitle": "Angular",
         "meta": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
         "description": "Angular form generation,dynamic template support primeng/zorro/bootstrap UI",
         "demoUrl": "form.giscafer.com",
-        "gitUrl": "https://github.com/giscafer/ng-form-builder"
+        "gitUrl": "https://github.com/giscafer/ngx-form-builder"
     },
     {
         "type": [
             "all",
             "angular"
         ],
-        "img": "6",
+        "img": "angular",
         "title": "ng-viewer",
         "subtitle": "Angular",
         "meta": "An angular directive for viewer.js",
@@ -335,7 +334,7 @@
             "all",
             "angular"
         ],
-        "img": "4",
+        "img": "angular",
         "title": "primeng-ext",
         "subtitle": "Angular",
         "meta": "primeng component extension",
@@ -366,7 +365,42 @@
         "subtitle": "wechat + node.js",
         "meta": "web 微信关键词自动回复功能（微信聊天，非公众号机器人）",
         "description": "web微信！！！非微信公众号，不管是在微信群聊还是微信私聊中，触发关键词，都会出现自动回复",
-        "gitUrl": "wechat-autoreply"
+        "gitUrl": "https://github.com/giscafer/wechat-autoreply"
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
+        "img": "pwa",
+        "title": "PWA 技术分享",
+        "subtitle": "PWA",
+        "meta": "公司内部技术培训，PWA技术分享PPT&Demo",
+        "description": "PWA技术学习分享",
+        "gitUrl": "https://github.com/giscafer/PWA-demo"
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
+        "img": "webcomponents",
+        "title": "认识 Web Components",
+        "subtitle": "Web Components",
+        "meta": "公司内部前端组培训，Web Components 技术分享PPT&Demo",
+        "description": "Web Components 技术学习分享",
+        "gitUrl": "https://github.com/giscafer/webcomponents-demo"
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
+        "img": "graphql",
+        "title": "探索 GraphQL",
+        "subtitle": "GraphQL 技术分享",
+        "meta": "公司内部技术培训，GraphQL 技术分享 PPT & Demo",
+        "description": "GraphQL 技术学习分享",
+        "gitUrl": "https://github.com/giscafer/Angular-GraphQL-Express-Demo"
     }
 ]
-  
