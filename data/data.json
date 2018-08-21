@@ -372,6 +372,32 @@
             "all",
             "course"
         ],
+        "img": "live",
+        "title": "从 giser 到前端开发经理之路",
+        "subtitle": "学习和工作经验分享",
+        "meta": "知乎Live",
+        "description": "WebGIS 开发工程师入门、前端开发工程师入门的一些经验分享与见解，以及结合我的简历和工作经验",
+        "pptUrl": "https://www.zhihu.com/lives/844909623906549760",
+        "gitUrl": ""
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
+        "img": "npm",
+        "title": "node.js npm 模块开发与发布、Mocha自动化测试",
+        "subtitle": "npm 模块开发培训",
+        "meta": "线上直播讲堂",
+        "description": "node.js npm 模块开发与发布、Mocha自动化测试",
+        "pptUrl": "https://segmentfault.com/l/1500000011901133/",
+        "gitUrl": ""
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
         "img": "pwa",
         "title": "PWA 技术分享",
         "subtitle": "PWA",
