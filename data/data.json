@@ -442,6 +442,18 @@
         "subtitle": "React Native + GraphQL",
         "meta": "A demo for study GraphQL & React Native （server&client）",
         "description": "React Native",
-        "gitUrl": "https://github.com/giscafer/react-native-apollo-exampleo"
+        "gitUrl": "https://github.com/giscafer/react-native-apollo-example"
+    },
+    {
+        "type": [
+            "all",
+            "nodejs"
+        ],
+        "img": "2",
+        "title": "orcword",
+        "subtitle": "nodejs + baidu aip",
+        "meta": "ORC 识别，支持pdf、图片、已及转word",
+        "description": "ORC 识别，支持pdf、图片、已及转word",
+        "gitUrl": "https://github.com/giscafer/orcword"
     }
 ]
