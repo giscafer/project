@@ -455,5 +455,18 @@
         "meta": "ORC 识别，支持pdf、图片、已及转word",
         "description": "ORC 识别，支持pdf、图片、已及转word",
         "gitUrl": "https://github.com/giscafer/orcword"
+    },
+    {
+        "type": [
+            "all",
+            "angular"
+        ],
+        "img": "angular",
+        "title": "ag-grid-angular-demo",
+        "subtitle": "angular + ag-Grid + WebSocket + GraphQL",
+        "meta": "demo list for ag-grid-angular,includes websocket/graphql data binding service",
+        "description": "demo list for ag-grid-angular,includes websocket/graphql data binding service",
+        "demoUrl": "http://blog.giscafer.com/ag-grid-angular-demo",
+        "gitUrl": "https://github.com/giscafer/ag-grid-angular-demo"
     }
 ]
