@@ -468,5 +468,18 @@
         "description": "demo list for ag-grid-angular,includes websocket/graphql data binding service",
         "demoUrl": "http://blog.giscafer.com/ag-grid-angular-demo",
         "gitUrl": "https://github.com/giscafer/ag-grid-angular-demo"
+    },
+    {
+        "type": [
+            "all",
+            "app"
+        ],
+        "img": "feweekly",
+        "title": "前端小助手",
+        "subtitle": "微信小程序",
+        "meta": "前端早报、周刊、精选文章资源",
+        "description": "前端早报、周刊、精选文章资源",
+        "demoUrl": "https://user-images.githubusercontent.com/8676711/51069422-cee4f780-1669-11e9-937c-33055af05eef.jpg",
+        "gitUrl": "https://user-images.githubusercontent.com/8676711/51069422-cee4f780-1669-11e9-937c-33055af05eef.jpg"
     }
 ]
