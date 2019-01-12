@@ -372,6 +372,32 @@
             "all",
             "course"
         ],
+        "img": "live",
+        "title": "从 giser 到前端开发经理之路",
+        "subtitle": "学习和工作经验分享",
+        "meta": "知乎Live",
+        "description": "WebGIS 开发工程师入门、前端开发工程师入门的一些经验分享与见解，以及结合我的简历和工作经验",
+        "pptUrl": "https://www.zhihu.com/lives/844909623906549760",
+        "gitUrl": ""
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
+        "img": "npm",
+        "title": "node.js npm 模块开发与发布、Mocha自动化测试",
+        "subtitle": "npm 模块开发培训",
+        "meta": "线上直播讲堂",
+        "description": "node.js npm 模块开发与发布、Mocha自动化测试",
+        "pptUrl": "https://segmentfault.com/l/1500000011901133/",
+        "gitUrl": ""
+    },
+    {
+        "type": [
+            "all",
+            "course"
+        ],
         "img": "pwa",
         "title": "PWA 技术分享",
         "subtitle": "PWA",
@@ -405,5 +431,55 @@
         "description": "GraphQL 技术学习分享",
         "pptUrl": "https://yanshuo.io/assets/player/?deck=5b65b580ee920a003be3eeb6#/",
         "gitUrl": "https://github.com/giscafer/Angular-GraphQL-Express-Demo"
+    },
+    {
+        "type": [
+            "all",
+            "app"
+        ],
+        "img": "rn",
+        "title": "react-native-apollo-example",
+        "subtitle": "React Native + GraphQL",
+        "meta": "A demo for study GraphQL & React Native （server&client）",
+        "description": "React Native",
+        "gitUrl": "https://github.com/giscafer/react-native-apollo-example"
+    },
+    {
+        "type": [
+            "all",
+            "nodejs"
+        ],
+        "img": "2",
+        "title": "orcword",
+        "subtitle": "nodejs + baidu aip",
+        "meta": "ORC 识别，支持pdf、图片、已及转word",
+        "description": "ORC 识别，支持pdf、图片、已及转word",
+        "gitUrl": "https://github.com/giscafer/orcword"
+    },
+    {
+        "type": [
+            "all",
+            "angular"
+        ],
+        "img": "angular",
+        "title": "ag-grid-angular-demo",
+        "subtitle": "angular + ag-Grid + WebSocket + GraphQL",
+        "meta": "demo list for ag-grid-angular,includes websocket/graphql data binding service",
+        "description": "demo list for ag-grid-angular,includes websocket/graphql data binding service",
+        "demoUrl": "http://blog.giscafer.com/ag-grid-angular-demo",
+        "gitUrl": "https://github.com/giscafer/ag-grid-angular-demo"
+    },
+    {
+        "type": [
+            "all",
+            "app"
+        ],
+        "img": "feweekly",
+        "title": "前端小助手",
+        "subtitle": "微信小程序",
+        "meta": "前端早报、周刊、精选文章资源",
+        "description": "前端早报、周刊、精选文章资源",
+        "demoUrl": "https://user-images.githubusercontent.com/8676711/51069422-cee4f780-1669-11e9-937c-33055af05eef.jpg",
+        "gitUrl": "https://user-images.githubusercontent.com/8676711/51069422-cee4f780-1669-11e9-937c-33055af05eef.jpg"
     }
 ]
